@@ -1,0 +1,14 @@
+{
+  "name":"Aisha's Nursing Hub",
+  "short_name":"Nursing Hub",
+  "start_url":"./",
+  "scope":"./",
+  "id":"https://aisha-mikylla.netlify.app/",
+  "display":"standalone",
+  "background_color":"#fff8fb",
+  "theme_color":"#c85b88",
+  "icons":[
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
